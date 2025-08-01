@@ -1,0 +1,29 @@
+.our-time-together {
+    text-align: center;
+    padding: 3rem 1rem;
+    background-color: #FFFDD0; /* A soft background color */
+    border-radius: 15px;
+    margin: 2rem auto;
+    max-width: 800px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+    font-family: 'Poppins', sans-serif;
+    color: #800020; /* Burgundy color */
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.message {
+    font-family: 'Poppins', sans-serif;
+    color: #5C4033; /* Dark brown color */
+    font-size: 1.2rem;
+    line-height: 1.8;
+}
+
+.duration-text {
+    font-weight: 600;
+    font-size: 1.5rem;
+    color: #800020;
+}
